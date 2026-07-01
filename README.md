@@ -1,6 +1,8 @@
-Sytème de monitoring d'infrastructure - les commandes
+Sytème de monitoring d'infrastructure avec Docker Desktop : Prometheus + Grafana
 
-Projet réalisé sous Linux mint
+ les commandes
+
+Projet réalisé sous Linux mint Docker Desktop 
 
 
 sudo apt install docker.io (installer Docker)
